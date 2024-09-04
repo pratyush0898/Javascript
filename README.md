@@ -1,7 +1,3 @@
-Here's a README file for your repository named **"JavaScript"**:
-
----
-
 ## JavaScript Repository
 
 Welcome to the **JavaScript** repository! This repo contains various JavaScript files demonstrating different concepts, from basic syntax and data types to advanced features like DOM manipulation.
@@ -59,7 +55,3 @@ Welcome to the **JavaScript** repository! This repo contains various JavaScript 
 ### License:
 
 This repository is licensed under the [Apache 2.0 License](LICENSE).
-
----
-
-This README provides an overview of what each file in your repository does and how to use them effectively.
